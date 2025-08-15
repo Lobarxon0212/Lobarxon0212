@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hello!+I'm+Lobarxon!;I'm+study+at+school%26;" alt="Typing SVG" />
 </div>
 
-## 🧑‍💻 About Me
+##   About Me
 
 🎯 **Goal:** programming becoming a programmer and studying abroad.
 🎓 **Fields I Teach:** Python, CSS ,HTML.
