@@ -5,10 +5,9 @@
 
 ## 🧑‍💻 About Me
 
-💻 **Profession:** It Park people
-🎯 **Goal:** programming becoming a programmer and studying abroad
-🎓 **Fields I Teach:** Python, CSS ,HTML
-📚 **Experience:** I'm study at it park 
+🎯 **Goal:** programming becoming a programmer and studying abroad.
+🎓 **Fields I Teach:** Python, CSS ,HTML.
+📚 **Experience:** I'm study at it park .
 
 ---
 
